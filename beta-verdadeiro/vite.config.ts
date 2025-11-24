@@ -1,0 +1,1 @@
+// File deprecated. Switched to Parcel.
